@@ -1,0 +1,6 @@
+Lien : http://hiess-bijouterie.hiess-web.fr/
+
+Site réalisé "à la main" en HTML, CSS et JavaScript.
+Responsive.
+E-commerce avec produits, catégories, CGU
+Charte graphique : Couleurs beige et doré, en accord avec le monde de la bijouterie.
